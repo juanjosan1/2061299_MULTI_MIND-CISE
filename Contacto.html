@@ -1,0 +1,130 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> Contacto </title>
+	<!-- CSS only -->
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+				integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link href="estilomaq.css" rel="stylesheet" type="text/css">
+	<link rel="icon" href="mc.ico">
+	<!-- JS, Popper.js, and jQuery -->
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+					integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+					crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+					integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+					crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+					integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+					crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+
+<div class="container">
+
+
+	<center><br><br><img src="Logonaranja.png" width="410" height="264"/></center>
+
+
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-light navegacion">
+			<!--<a class="navbar-brand" href="#">Navbar</a>-->
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+							aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse pt-2 pb-2" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="Index.html">Inicio <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+							 aria-haspopup="true" aria-expanded="false">
+							Acerca de
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="Neurobica.html">Neurobica</a>
+							<a class="dropdown-item" href="Curiosidades.html">Curiosidades</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="SedentarismoMental.html">Sedentarismo mental</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+							 aria-haspopup="true" aria-expanded="false">
+							Multimedia
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="Animacion.html">Animaci&oacute;n</a>
+							<a class="dropdown-item" href="Video.html">Video</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="VideoJuego.html">Video Juegos</a>
+						</div>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="Contacto.html">Contacto</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+
+	</header>
+
+
+	<div class="row mt-5">
+		<div class="col-md-12 text-center section-top-bar contacto">
+        <span>
+            CONTACTO
+        </span>
+		</div>
+
+	</div>
+
+
+	<div class="main-content mt-5 mb-5">
+		<div class="row">
+			<div class="col-md-6">
+				<img src="redes.jpg" class="w-100">
+			</div>
+			<div class="col-md-6">
+				<form>
+					<div class="form-group">
+						<label for="anybodyName">Nombre</label>
+						<input type="text" class="form-control" id="anybodyName" aria-describedby="anybodyName" placeholder="Ej: Santiago Vivanco">
+					</div>
+					<div class="form-group">
+						<label for="phoneInput">Telefono</label>
+						<input type="text" class="form-control" id="phoneInput" placeholder="Ej: 314 840 5432">
+					</div>
+					<div class="form-group">
+						<label for="exampleInputEmail1">Nombre</label>
+						<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ej: myemail@domain.com">
+					</div>
+					<div class="form-group">
+						<label for="mensajeInput">Mensaje (Max 1000 caracteres)</label>
+						<textarea class="form-control" id="mensajeInput" rows="3" maxlength="1000"></textarea>
+					</div>
+					<button type="submit" class="btn btn-primary">Enviar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="row section-bottom-bar">
+		<div class="col-md-6 pt-1 pb-1">
+			<span>Politica de privacidad y condiciones</span>
+		</div>
+		<div class="col-md-6 pt-1 pb-1 text-right">
+			<span>2020 | Mindcise</span>
+		</div>
+	</div>
+</div>
+</body>
+</html>

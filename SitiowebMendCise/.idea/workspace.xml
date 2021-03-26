@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc450a3a-e302-4f84-bf7f-09ce11c7c76e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-259795727">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="8" />
+          <entry key="png" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="259" />
+          <entry key="html" value="1997" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="259" />
+          <entry key="HTML" value="1997" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Animacion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="e#54#62#0" expanded="true" />
+                <element signature="e#2963#2971#0" expanded="true" />
+                <element signature="e#3444#3452#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Video.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+              <folding>
+                <element signature="e#2967#2975#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VideoJuego.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+              <folding>
+                <element signature="e#2956#2964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estilomaq.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contacto.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="66" column="52" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="52" />
+              <folding>
+                <element signature="e#2963#2971#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-fam</find>
+      <find>ID=&quot;LOGO</find>
+      <find>\&lt;html\&gt;\n\&lt;title\&gt; Inicio \&lt;\/title\&gt;\n\&lt;\!\-\- CSS only \-\-\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/stackpath\.bootstrapcdn\.com\/bootstrap\/4\.5\.2\/css\/bootstrap\.min\.css\&quot; integrity\=\&quot;sha384\-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP\+VmmDGMN5t9UJ0Z\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n \&lt;link href\=\&quot;estilomaq\.css\&quot; rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot;\&gt;\n\	\&lt;link rel\=\&quot;icon\&quot;  href\=\&quot;mc\.ico\&quot;\&gt;\n\n\n     \&lt;div id\=\&quot;logo\&quot;\&gt;\n\n\n\n\&lt;center\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;img src\=\&quot;Logonaranja\.png\&quot;  width\=\&quot;410\&quot; height\=\&quot;264\&quot;\/\&gt;\&lt;\/center\&gt;\n\n\&lt;div\&gt;\n\n\n\&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n\	\	\&lt;body\&gt;\n\n\n\	\&lt;header\&gt;\n\	\	\&lt;nav class\=\&quot;navegacion\&quot;\&gt;\n\	\	\	\&lt;ul class\=\&quot;menu\&quot;\&gt;\n\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Index\.html\&quot;\&gt;Inicio\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Acerca de\&lt;\/a\&gt;\n\n\	\	\	\	\	\&lt;ul class\=\&quot;submenu\&quot;\&gt;\n\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Neurobica\.html\&quot;\&gt;Neuróbica\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Curiosidades\.html\&quot;\&gt;Curiosidades\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Sedentarismo Mental\&quot;\&gt;Sedentarismo Mental\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n\n\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\&lt;\/ul\&gt;\n\n\n\n\n\n\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Multimedia\&lt;\/a\&gt;\n\n\	\	\	\	\	\&lt;ul class\=\&quot;submenu\&quot;\&gt;\n\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Animacion\.html\&quot;\&gt;Animación\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Video\.html\&quot;\&gt;Video\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Video Juego\.html\&quot;\&gt;Video Juego\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n\n\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\&lt;\/ul\&gt;\n\n\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;Contacto\.html\&quot;\&gt;Contacto\&lt;\/a\&gt;\n\n\n\	\	\	\&lt;\/li\&gt;\n\	\	\&lt;\/ul\&gt;\n\n\n\n\n\n\n\n\	\	\&lt;\/li\&gt;\n\	\	\	\&lt;\/ul\&gt;\n\	\	\&lt;\/nav\&gt;\n\n\	\&lt;\/header\&gt;\n\n\n\n\n\&lt;\/body\&gt;\n\n\n\&lt;div id\=\&quot;imagen\&quot;\&gt;\n\n\&lt;br\&gt;\&lt;br\&gt;\&lt;center\&gt;\&lt;img src\=\&quot;barra\.png\&quot; \&gt;\&lt;\/center\&gt;\n\n\&lt;\/div\&gt;\n\n\n\	\	\&lt;div id\=\&quot;cerebro\&quot;\&gt;\n\n\n\n\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;img src\=\&quot;cere\.png\&quot; align\=\&quot;left\&quot;\&gt;\n\n\&lt;\/div\&gt;\n\n\n \&lt;div id\=\&quot;Texto\&quot;\&gt;\n\n\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt; \&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt; \&lt;left\&gt;\&lt;font color\=\&quot;black\&quot;\&gt;\&lt;h2\&gt;\&lt;font face\=\&quot;Gadugi\&quot;\&gt; Mindcise es un proyecto realizado por estudiantes del Sena\, enfocado en mejorar la memoria por medio de la neuróbica\, a travez de herramientas multimediales\, tales como animaciones\, videos\, video juegos e imagenes\.\n\&lt;\/h2\&gt;\&lt;\/font\&gt;\&lt;\/font\&gt;\&lt;\/right\&gt;\n\n\&lt;\/div\&gt;\n\n \&lt;div id\=\&quot;bart\&quot;\&gt;\n\n \&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt; \&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt; \&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt;\&lt;br\&gt; \&gt;\&lt;center\&gt;\&lt;img src\=\&quot;barra1\.png\&quot;\&gt;\&lt;\/center\&gt;\n\n\n\n\n \&lt;\/div\&gt;\n</find>
+      <find>bart</find>
+      <find>min</find>
+      <find>mins</find>
+      <find>font-size-16</find>
+      <find>barra</find>
+      <find>section</find>
+      <find>Video juego</find>
+      <find>VIDEO JUE</find>
+      <find>&gt;VideoJuegos&lt;</find>
+      <find>videoju</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>VideoJuego</replace>
+      <replace>&gt;Video Juegos&lt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/Neurobica.html" />
+        <option value="$PROJECT_DIR$/SedentarismoMental.html" />
+        <option value="$PROJECT_DIR$/Curiosidades.html" />
+        <option value="$PROJECT_DIR$/estilomaq.css" />
+        <option value="$PROJECT_DIR$/Contacto.html" />
+        <option value="$PROJECT_DIR$/VideoJuego.html" />
+        <option value="$PROJECT_DIR$/Video.html" />
+        <option value="$PROJECT_DIR$/Animacion.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="960" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sitio_santiago" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sitio_santiago" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc450a3a-e302-4f84-bf7f-09ce11c7c76e" name="Default Changelist" comment="" />
+      <created>1600032761545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600032761545</updated>
+      <workItem from="1600032762909" duration="7304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7304000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Neurobica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="80" column="53" lean-forward="true" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="62" />
+          <folding>
+            <element signature="e#3166#3174#0" expanded="true" />
+            <element signature="e#3981#3989#0" expanded="true" />
+            <element signature="e#4000#4008#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="80" column="60" selection-start-line="80" selection-start-column="60" selection-end-line="80" selection-end-column="60" />
+          <folding>
+            <element signature="e#2215#2223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barra.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barra1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Curiosidades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="83" column="15" lean-forward="true" selection-end-line="117" />
+          <folding>
+            <element signature="e#2963#2971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SedentarismoMental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="97" selection-end-column="12" />
+          <folding>
+            <element signature="e#3174#3182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vid.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilomaq.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="66" column="52" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="52" />
+          <folding>
+            <element signature="e#2963#2971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoJuego.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+          <folding>
+            <element signature="e#2956#2964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding>
+            <element signature="e#2967#2975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#54#62#0" expanded="true" />
+            <element signature="e#2963#2971#0" expanded="true" />
+            <element signature="e#3444#3452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
